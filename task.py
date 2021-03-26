@@ -12,7 +12,7 @@
 # - until user breaks the loop
 
 #The level of realism in simulation is of your choice, but more sophisticated solutions are better.
-#If you can thing of any other features, you can add them.
+#If you can think of any other features, you can add them.
 #Make intelligent use of pythons syntactic sugar (overloading, iterators, generators, etc)
 #Most of all: CREATE GOOD, RELIABLE, READABLE CODE.
 #The goal of this task is for you to SHOW YOUR BEST python programming skills.
